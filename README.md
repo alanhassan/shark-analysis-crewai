@@ -8,7 +8,7 @@ Agentes Inteligentes:
 
 Analista de Dados Sênior: Classifica atividades (ex: Surfing, Swimming) em categorias estruturadas como "Esportes de Prancha" ou "Interação Provocada" usando JSON puro.
 
-Escritor de Relatórios: (Podes adicionar aqui a descrição do segundo agente que gera o texto final).
+Escritor de Relatórios: Redige o relatório, com as metricas e análises definidas pelo usuário.
 
 Geração de PDF: Exportação automática de um relatório executivo formatado com os resultados da análise.
 

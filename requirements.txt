@@ -1,4 +1,5 @@
 # Manipulação de Dados
+kagglehub
 pandas
 numpy
 

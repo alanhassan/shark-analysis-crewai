@@ -2,18 +2,18 @@
 # Relatório de Ataques de Tubarão
 
 ## Resumo Executivo
-Este relatório apresenta uma análise detalhada dos ataques de tubarão, com foco nas categorias de atividades, fatalidades, e a distribuição geográfica dos incidentes. Os dados revelam tendências preocupantes e áreas de alta incidência que requerem atenção.
+Este relatório analisa os dados de ataques de tubarão, destacando as categorias de atividades, fatalidades, os principais países afetados e um detalhamento geográfico das áreas mais impactadas. A análise temporal também é apresentada para entender as tendências ao longo dos anos.
 
 ## Análise Temporal
-A análise temporal dos ataques de tubarão mostra um aumento significativo nos últimos anos, indicando uma necessidade urgente de medidas de segurança e conscientização. 
+A análise temporal revela flutuações significativas no número de ataques ao longo dos anos, indicando possíveis correlações com fatores ambientais e comportamentais.
 ![Tendência Temporal](grafico_temporal.png)
 
 ## Análise por Atividade
-A distribuição dos ataques por atividade revela que a maioria dos incidentes ocorre durante atividades de natação e mergulho, seguidas por esportes de prancha e pesca.
+A distribuição por atividade mostra que a Natação/Mergulho é a atividade mais associada a ataques de tubarão, seguida por Esportes de Prancha e Pesca. Isso sugere que as atividades aquáticas populares podem estar correlacionadas com o aumento do risco de ataques.
 ![Distribuição por Atividade](grafico_categorias.png)
 
 ## Análise de Fatalidade
-A análise de fatalidades mostra que, embora a maioria dos ataques não resulte em morte, as atividades de natação e mergulho têm uma taxa de fatalidade alarmante.
+A análise de fatalidade indica que, embora a Natação/Mergulho tenha o maior número de ataques, a taxa de fatalidade é preocupante, especialmente em comparação com outras atividades. Isso destaca a necessidade de medidas de segurança adequadas.
 ![Fatalidade](grafico_fatalidade.png)
 
 ## Análise Top 3 Países
@@ -42,6 +42,9 @@ A análise de fatalidades mostra que, embora a maioria dos ataques não resulte 
 | Western Cape Province |    181 |
 | Eastern Cape Province |    150 |
 
-## Conclusões
-Os dados indicam que os ataques de tubarão estão se tornando mais frequentes, especialmente em áreas costeiras populares para atividades aquáticas. A Flórida, na USA, é a região mais afetada, seguida por áreas na Austrália e na África do Sul. É crucial implementar medidas de segurança e campanhas de conscientização para mitigar os riscos associados a essas atividades.
+## Conclusões Finais
+- A atividade de Natação/Mergulho apresenta o maior volume de ataques, com uma taxa significativa de fatalidades. Isso sugere a necessidade de campanhas de conscientização e segurança para nadadores e mergulhadores.
+- Os EUA são o país com o maior número de ataques, especialmente na Flórida, que deve ser um foco para medidas de segurança.
+- A Austrália e a África do Sul também apresentam números consideráveis, indicando que as áreas costeiras nesses países devem ser monitoradas e regulamentadas para minimizar os riscos.
+- A análise de tendências ao longo dos anos mostra flutuações que podem estar relacionadas a fatores ambientais, como mudanças na temperatura da água e na população de tubarões, que devem ser investigados para entender melhor os padrões de ataque.
 ```

@@ -1,0 +1,18 @@
+# Manipulação de Dados
+pandas
+numpy
+
+# Inteligência Artificial e Agentes
+crewai
+langchain
+langchain-openai
+langchain-experimental
+python-dotenv
+pydantic
+
+# Visualização e Gráficos
+matplotlib
+seaborn
+
+# Geração de Documentos
+fpdf2

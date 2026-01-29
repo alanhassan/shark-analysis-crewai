@@ -2,7 +2,7 @@
 # Relatório de Ataques de Tubarão
 
 ## Resumo Executivo
-Este relatório apresenta uma análise detalhada dos ataques de tubarão, com foco nas categorias de atividades, fatalidades, tendências temporais e a distribuição geográfica dos incidentes. Os dados foram extraídos de um conjunto abrangente de registros, permitindo uma visão clara sobre a segurança em ambientes aquáticos.
+Este relatório apresenta uma análise abrangente dos ataques de tubarão, com foco nas categorias de atividades, fatalidades, tendências temporais e a distribuição geográfica dos incidentes. Os dados foram extraídos de um conjunto de registros, permitindo uma visão clara sobre a segurança em ambientes aquáticos.
 
 ## Análise Temporal
 ![Tendência Temporal](grafico_temporal.png)
@@ -20,7 +20,7 @@ A distribuição dos ataques por atividade mostra que a natação e o mergulho s
 A análise de fatalidades indica que, embora a maioria dos ataques não resulte em morte, um número considerável de fatalidades ocorre em atividades de natação e mergulho. Isso destaca a importância de medidas preventivas nessas áreas.
 
 ## Análise Top 3 Países
-![Top 3 Países](grafico_top_paises_rosca.png)
+![Top 3 Países](grafico_top_paises_barras.png)
 
 Os Estados Unidos, Austrália e África do Sul são os países com o maior número de ataques de tubarão registrados. A visualização gráfica fornece uma representação clara da distribuição dos incidentes entre esses países.
 

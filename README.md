@@ -34,7 +34,7 @@ O dataset attacks.csv (Global Shark Attack File).
 Clone o repositório:
 
 Bash
-git clone https://github.com/teu-usuario/shark-analysis-crewai.git
+git clone https://github.com/alanhassan/shark-analysis-crewai
 Instale as dependências:
 
 Bash
